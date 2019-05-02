@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+<body>
+<b>CHƯƠNG TRÌNH TÍNH LÃI NGÂN HÀNG</b>
+<p>Số tiền ban đầu</p>
+<input id="sotien" style="width: 150px"/>
+<p>Số tháng cho vay</p>
+<input id="sothang" style="width: 150px"/>
+<p>Lãi suất</p>
+<input id="laisuat" style="width: 150px"/>
+<p>LÃI NGÂN HÀNG </p>
+<input type="button" value="Result" onclick="ham()"/>
+<p id="lainganhang" style="width: 150px"></p>
+<script>
+    function ham() {
+        let tien=parseFloat(document.getElementById("sotien").value);
+        let thang=parseFloat(document.getElementById("sothang").value);
+        let laisuat=parseFloat(document.getElementById("laisuat").value);
+        let laihangthang;
+        let sotientrahangthang;
+        let tienlai;
+        for (let i=1;i<=thang;i++) {
+            tienlai = tien* laisuat * i;
+            document.write("tien lai"+" "+"thang"+i+"la: " + " " +tienlai+ "triệu đồng"+"<br/>");
+        }
+
+    }
+</script>
+</body>
+</html>

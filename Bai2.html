@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+<body>
+<script>
+    function giaithua(n) {
+        if(n===0){
+            return 1;
+        }
+        else {
+            return giaithua(n-1)*n;
+        }
+    }
+    let songuyen = prompt("xin mời nhập số");
+    for (let i=0;i<=songuyen;i++) {
+        document.write("giai thừa của" + " " + i + " " + "là:" + " " + giaithua(i)+"<br/>");
+    }
+</script>
+</body>
+</html>

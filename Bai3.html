@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+<body>
+<script>
+
+    // Bai 1
+
+    for (let i=1;i<=5;i++){
+        for (let j=1;j<=i;j++){
+            document.write("*"+" ");
+        }
+        document.write("<br/>");
+    }
+
+    document.write("<br/>");
+    document.write("<br/>");
+
+    //  Bai 2
+
+    for (let i=5;i>0;i--){
+        for (let j=1;j<=i;j++){
+            document.write("*"+" ");
+        }
+        document.write("<br/>");
+    }
+
+    document.write("<br/>");
+    document.write("<br/>");
+
+    //  Bai 3
+
+    let tong="<table>";
+    for (let i=1;i<=6;i++){
+        tong+="<tr>";
+        for (let j=1;j<=i;j++){
+            if (j===1) {
+                for (let k = 1; k <= (6 - i); k++) {
+                    tong+="<td>"+" "+"</td>";
+                }
+            }
+            else {
+                tong+="<td>"+" *"+"</td>";
+            }
+        }
+        tong+="</tr>";
+        document.write("<br/>");
+    }
+    document.write(tong);
+    tong+="</table>";
+
+    document.write("</br>");
+    document.write("</br>");
+
+    //  Bai 4
+
+    let tong1="<table>";
+    for (let i=6;i>0;i--){
+        tong1 +="<tr>";
+        for (let j=1;j<=i;j++){
+            if (j===1) {
+                for (let k = 1; k <= (6 - i); k++) {
+                    tong1 +="<td>"+" "+"</td>";
+                }
+            }
+            else {
+                tong1 +="<td>"+" *"+"</td>";
+            }
+        }
+        tong1 +="</tr>";
+        document.write("<br/>");
+    }
+    document.write(tong1);
+    tong1 +="</table>";
+</script>
+</body>
+</html>
