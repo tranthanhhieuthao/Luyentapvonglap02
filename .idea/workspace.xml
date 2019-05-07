@@ -3,11 +3,39 @@
   <component name="ChangeListManager">
     <list default="true" id="8280547c-9761-48f6-8f77-fc86bc777d6e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Bai4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Bai5.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Bai6.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Bài1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 01/.idea/Luyện tập mảng 01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 01/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 01/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 01/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 01/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 01/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 01/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 01/Bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 01/Bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 01/Bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 2/.idea/Luyện tập mảng 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 2/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 2/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 2/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 2/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 2/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập mảng 2/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sử dụng các hàm có sẵn của mảng/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sử dụng các hàm có sẵn của mảng/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sử dụng các hàm có sẵn của mảng/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tic tac toe/Tic tac toe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timgiatrilonnhattrongmang/giatrilonnhatmang.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tìm giá trị trong mảng/.idea/Tìm giá trị trong mảng.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tìm giá trị trong mảng/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tìm giá trị trong mảng/.idea/modules.xml" afterDir="false" />
@@ -16,13 +44,37 @@
       <change afterPath="$PROJECT_DIR$/../Tìm giá trị trong mảng/Tìm giá trị trong mảng.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tạo và Thao tác với mảng/.idea/Tạo và Thao tác với mảng.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tạo và Thao tác với mảng/Tạo và thao tác với mảng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo và gọi hàm/.idea/Tạo và gọi hàm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo và gọi hàm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo và gọi hàm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo và gọi hàm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo và gọi hàm/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo và gọi hàm/Tạo và gọi hàm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Chuyển đổi nhiệt độ/Chuyển đổi nhiệt độ.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../git/my-new-project/my-new.project/my-new.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tao ban co don gian/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tao ban co don gian/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tao ban co don gian/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tao ban co don gian/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tao ban co don gian/[Thực hành] Tạo bàn cờ caro đơn giản.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tudien/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tudien/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tudien/.idea/tudien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tudien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tudien/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tudien/tu dien.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Đảo ngược các phần tử trong mảng/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Đảo ngược các phần tử trong mảng/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Đảo ngược các phần tử trong mảng/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Đảo ngược các phần tử trong mảng/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Đảo ngược các phần tử trong mảng/Đảo ngược các phần tử trong mảng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/.idea/Ứng dụng vui Faking Textarea on Typing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/Ứng dụng vui Faking Textarea on Typing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitapcodegym" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapcodegym" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitaptientengay3" beforeDir="false" afterPath="$PROJECT_DIR$/../baitaptientengay3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/demo.html" afterDir="false" />
@@ -42,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bài1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="378">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -51,26 +103,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bai2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bai3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+            <state relative-caret-position="252">
+              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bai3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bai4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="420">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -78,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bai5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+            <state relative-caret-position="126">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -93,8 +145,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bai6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="294">
+              <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -117,8 +169,8 @@
         <option value="$PROJECT_DIR$/Bài1.html" />
         <option value="$PROJECT_DIR$/Bai2.html" />
         <option value="$PROJECT_DIR$/Bai5.html" />
-        <option value="$PROJECT_DIR$/Bai4.html" />
         <option value="$PROJECT_DIR$/Bai6.html" />
+        <option value="$PROJECT_DIR$/Bai4.html" />
         <option value="$PROJECT_DIR$/Bai3.html" />
       </list>
     </option>
@@ -135,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,6 +198,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,12 +235,14 @@
       <workItem from="1556781233017" duration="11796000" />
       <workItem from="1556805504142" duration="1137000" />
       <workItem from="1556853633624" duration="864000" />
-      <workItem from="1556868741902" duration="1578000" />
+      <workItem from="1556868741902" duration="2322000" />
+      <workItem from="1557069435606" duration="943000" />
+      <workItem from="1557198266320" duration="2014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26585000" />
+    <option name="totallyTimeSpent" value="30286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="20" width="1408" height="992" extended-state="0" />
@@ -238,22 +292,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Bài1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="378">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bai2.html">
+    <entry file="file://$PROJECT_DIR$/Bai4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="420">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bai5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        <state relative-caret-position="126">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -265,22 +319,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bai6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="294">
+          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bai2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bai3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bai4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="406">
+          <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
         </state>
       </provider>
     </entry>
